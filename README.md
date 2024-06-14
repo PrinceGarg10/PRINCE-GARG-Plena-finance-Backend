@@ -72,14 +72,3 @@ npm start
 ```
 
 This will start the server using the compiled JavaScript files in the `dist` directory.
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request if you find any bugs or want to suggest improvements.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-```
-
-Feel free to adjust the content as needed for your specific project.
